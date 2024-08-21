@@ -2,7 +2,7 @@
 **Objective of the Data Analysis:**
 Vrinda Store wants to create an annual sales report for 2022 so that it can understand its customers and grow its sales in 2023.
 
-**Recommended Analysis**
+**Recommended Analysis:**
 1. Compare the sales and orders.
 2. Which month got the highest sales and orders?
 3. Who purchased more- Men or Women?
